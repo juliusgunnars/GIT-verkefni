@@ -12,3 +12,4 @@
     * git checkout - svar: gerir þér kleift að flakka á milli branch
     * git branch - svar: búa til branch
 4. Hvað er útgáfustýring (Version Control)? - svar: það gerir viðkomanda kleift að athuga allar útgáfur og hvað og hver liggur á bak við þær.
+5. Hverjir eru helstu kostir við að nota GIT? - svar: fylgjast með breytingum sínum og haldið samræmi milli breytinga annarra
