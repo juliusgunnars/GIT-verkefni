@@ -13,3 +13,4 @@
     * git branch - svar: búa til branch
 4. Hvað er útgáfustýring (Version Control)? - svar: það gerir viðkomanda kleift að athuga allar útgáfur og hvað og hver liggur á bak við þær.
 5. Hverjir eru helstu kostir við að nota GIT? - svar: fylgjast með breytingum sínum og haldið samræmi milli breytinga annarra
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - svar: gáfulegast væri að gera á 50 lína fresti þá er auðveldast að sjá breytingar sínar og lagfæra þær
