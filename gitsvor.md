@@ -5,5 +5,10 @@
     * mkdir - svar: búa til möppu
 2. Hvað gera eftirfarandi Git skipanir?
     * git clone - svar: nær í afrit af repository
-    * git status - sýnir yfirlit yfir allar skránar og hvort þær hafa breyst
+    * git status - svar: sýnir yfirlit yfir allar skránar og hvort þær hafa breyst
     * git diff - svar: sýnir muninn á skránum þ.e. breytinguna
+3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+    * git log - svar: gerir þér kleift að sjá hvað liggur á bak við tiltekna breytingu
+    * git checkout - svar: gerir þér kleift að flakka á milli branch
+    * git branch - svar: búa til branch
+
